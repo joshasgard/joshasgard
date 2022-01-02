@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+==Remove from comment to preview
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshasgard)](https://github.com/joshasgard/github-readme-stats)
+
+==Remove comment to preview
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshasgard)](https://github.com/joshasgard/github-readme-stats)
+
 -->
