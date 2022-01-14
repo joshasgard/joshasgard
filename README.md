@@ -1,5 +1,5 @@
 ##  Hi there 👋
-### Click <a href="https://idowuodesanmi.herokuapp.com" target="_blank">here </a> to visit my new website 🌐. 
+### Click <a href="https://joshasgard.github.io/" target="_blank">here </a> to visit my new website 🌐. 
 
 <!--
 **joshasgard/joshasgard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
